@@ -14,13 +14,13 @@
   {
     "icon": "fa fa-play-circle",
     "slug": "tema-1",
-    "title": "1. Cumplimiento de requisitos de una Empresa Asociativa de Trabajo",
+    "title": "1. Cumplimiento de requisitos de una EAT",
     "path": "pages/tema-1.html"
   },
   {
     "icon": "fa fa-play-circle",
     "slug": "tema-2",
-    "title": "2. Documentos requeridos para la constitución de una Empresa Asociativa de Trabajo",
+    "title": "2. Documentos requeridos para la constitución de una EAT",
     "path": "pages/tema-2.html" 
   }
 ]
